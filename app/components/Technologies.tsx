@@ -12,15 +12,15 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           tabIndex={tabIndex}
           className="focus:outline-none xl:text-5xl md:text-3xl text-xl dark:text-white text-center text-gray-800 font-extrabold mb-5 pt-4"
         >
-          Partnerships with Coveted Brands
+          Skills
         </h1>
         <p
           tabIndex={0}
           className="focus:outline-none text-base md:text-lg lg:text-xl dark:text-gray-200 text-center text-gray-600 font-normal xl:w-10/12 xl:mx-auto"
         >
-          Our success has come from being committed to the property and
-          investing in the development of the product to maximize sales. At the
-          same time and maintaining the integrity.
+          You don’t learn to walk by following rules. You learn by doing, and by
+          falling over.
+          <br />– Richard Branson
         </p>
       </div>
       <div className="xl:py-16 lg:py-16 md:py-16 sm:py-16 px-15 flex flex-wrap">
@@ -28,8 +28,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/adidas-dark.png"
-            alt="Adidas"
+            src="/images/icons/javascript.svg"
+            alt="JavaScript"
             role="img"
           />
         </div>
@@ -37,8 +37,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/channel-dark.png"
-            alt="Chanel"
+            src="/images/icons/typescript.svg"
+            alt="Typescript"
             role="img"
           />
         </div>
@@ -46,8 +46,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/nike-dark.png"
-            alt="Nike"
+            src="/images/icons/bootstrap.svg"
+            alt="Bootstrap"
             role="img"
           />
         </div>
@@ -55,8 +55,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/toyota-dark.png"
-            alt="Toyota"
+            src="/images/icons/reactbootstrap.svg"
+            alt="React Bootstrap"
             role="img"
           />
         </div>
@@ -64,8 +64,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/gs1-dark.png"
-            alt="GS1"
+            src="/images/icons/react.svg"
+            alt="React.js"
             role="img"
           />
         </div>
@@ -73,8 +73,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/berry-dark.png"
-            alt="BlackBerry"
+            src="/images/icons/mongodb.svg"
+            alt="MongoDB"
             role="img"
           />
         </div>
@@ -82,8 +82,8 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/min-dark.png"
-            alt="Mini"
+            src="/images/icons/gcp.svg"
+            alt="Google Cloud Platform"
             role="img"
           />
         </div>
@@ -91,7 +91,7 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="https://cdn.tuk.dev/assets/honda-dark.png"
+            src="/images/icons/next.svg"
             alt="Honda"
             role="img"
           />
