@@ -27,7 +27,7 @@ export default function Hero() {
           <div className="flex justify-center">
             <button className="inline-flex text-white bg-purple-800 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg ml-2 mr-5">
               <a
-                href="/images/2023FSDResume.pdf"
+                href="/fsse2023resume.pdf"
                 className="text-titanium-600 ml-1"
                 rel="noopener noreferrer"
                 target="_blank"

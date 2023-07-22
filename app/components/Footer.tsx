@@ -13,7 +13,7 @@ export default function Footer() {
             rel="noreferrer"
           >
             <img
-              src="/images/logo1.png"
+              src="/images/logo1.webp"
               height="40"
               width="40"
               alt="logo: Light grey capital V, purple capital C, with Véronie Cazeau overlayed."
