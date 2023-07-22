@@ -91,7 +91,7 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           <img
             tabIndex={0}
             className="focus:outline-none"
-            src="/images/icons/next.svg"
+            src="/images/icons/nextjs.svg"
             alt="Honda"
             role="img"
           />
