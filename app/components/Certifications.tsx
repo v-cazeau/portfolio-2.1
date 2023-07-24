@@ -4,7 +4,7 @@ export default function Certifications() {
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-            Master Cleanse Reliac Heirloom
+            Certifications
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
@@ -18,18 +18,17 @@ export default function Certifications() {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/600x360"
+                src="/images/certs/bcCert.png"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  CERTIFICATION
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Shooting Stars
+                  Boca Code
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Learned the fundamentals of software, MERN, FERN, and more.
                 </p>
               </div>
             </div>
@@ -39,18 +38,18 @@ export default function Certifications() {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/601x361"
+                src="/images/certs/figmaCert.webp"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  CERTIFICATION
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The Catalyzer
+                  LinkedIn
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Learned Figma for UX design: created, collaborated,
+                  prototyped.
                 </p>
               </div>
             </div>
@@ -60,18 +59,17 @@ export default function Certifications() {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/603x363"
+                src="/images/certs/ueCert.png"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  CERTIFICATION
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  The 400 Blows
+                  LinkedIn
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  UX Principles: Create Engaging Websites Users Love.
                 </p>
               </div>
             </div>
@@ -81,18 +79,18 @@ export default function Certifications() {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/602x362"
+                src="/images/certs/genAiCert.webp"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  CERTIFICATION
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Neptune
+                  LinkedIn
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Delved into generative AI: rapid creation, ethics,
+                  transformative potential.
                 </p>
               </div>
             </div>
@@ -102,18 +100,17 @@ export default function Certifications() {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/605x365"
+                src="/images/certs/aiCert.webp"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  CERTIFICATION
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Holden Caulfield
+                  LinkedIn
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Dived into AI concepts, machine learning, and integration.
                 </p>
               </div>
             </div>
@@ -123,18 +120,18 @@ export default function Certifications() {
               <img
                 alt="gallery"
                 className="absolute inset-0 w-full h-full object-cover object-center"
-                src="https://dummyimage.com/606x366"
+                src="/images/certs/promptEngineeringCert.webp"
               />
               <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                 <h2 className="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">
-                  THE SUBTITLE
+                  CERTIFICATION
                 </h2>
                 <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                  Alper Kamu
+                  LinkedIn
                 </h1>
                 <p className="leading-relaxed">
-                  Photo booth fam kinfolk cold-pressed sriracha leggings
-                  jianbing microdosing tousled waistcoat.
+                  Explored AI Prompt Engineering: Effortlessly transformed
+                  interactions.
                 </p>
               </div>
             </div>
