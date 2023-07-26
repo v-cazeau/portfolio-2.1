@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+/* body {
   background-color: rgb(123, 69, 223);
 }
 
@@ -12,5 +12,9 @@ section {
 
 header {
   background-color: rgba(240, 248, 255, 0.674);
-  margin-top: 0px;
 }
+
+footer {
+  background-color: rgba(240, 248, 255, 0.674);
+  width: 100%;
+} */

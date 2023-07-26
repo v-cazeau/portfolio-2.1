@@ -20,7 +20,7 @@ export default function Portfolio() {
               />
               <div className="flex-grow sm:pl-8">
                 <h2 className="title-font font-medium text-lg text-gray-7">
-                  Holden Caulfield
+                  WONDERLUST
                 </h2>
                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
                 <p className="mb-4">
@@ -80,7 +80,7 @@ export default function Portfolio() {
               />
               <div className="flex-grow sm:pl-8">
                 <h2 className="title-font font-medium text-lg text-gray-7">
-                  Alper Kamu
+                  VISUAL NOVEL
                 </h2>
                 <h3 className="text-gray-500 mb-3">Designer</h3>
                 <p className="mb-4">

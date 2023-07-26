@@ -1,22 +1,24 @@
-import './globals.css'
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import "./globals.css";
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Véronie Cazeau: Self-Starter with Creative Expertise and Exceptional Organizational Skill.',
-  description: 'I have a strong passion for Information Technology and I consistently strive to find avenues for self-improvement through learning. My diverse range of interests includes development, UX/UI design, cloud computing, DevSecOps, and project management.',
-}
+  title:
+    "Véronie Cazeau: Self-Starter with Creative Expertise and Exceptional Organizational Skill.",
+  description:
+    "I have a strong passion for Information Technology and I consistently strive to find avenues for self-improvement through learning. My diverse range of interests includes development, UX/UI design, cloud computing, DevSecOps, and project management.",
+};
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html lang="en">
       <body className={inter.className}>{children}</body>
     </html>
-  )
+  );
 }
