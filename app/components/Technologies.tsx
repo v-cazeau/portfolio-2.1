@@ -6,7 +6,7 @@ interface TechnologiesProps {
 
 const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
   return (
-    <div className="container mx-auto pt-16">
+    <section className="container mx-auto py-7 pr-3 pl-3 mt-0">
       <div className="w-11/12 xl:w-2/3 lg:w-2/3 md:w-2/3 mx-auto sm:mb-10 mb-16">
         <h1
           tabIndex={tabIndex}
@@ -18,9 +18,9 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           tabIndex={0}
           className="focus:outline-none text-base md:text-lg lg:text-xl dark:text-gray-200 text-center text-gray-600 font-normal xl:w-10/12 xl:mx-auto"
         >
-          You don’t learn to walk by following rules. You learn by doing, and by
-          falling over.
-          <br />– Richard Branson
+          "Through each step of climbing a mountain, we find the strength to
+          overcome obstacles, for it is in conquering challenges that we truly
+          discover the heights of our potential."
         </p>
       </div>
       <div className="xl:py-16 lg:py-16 md:py-16 sm:py-16 px-15 flex flex-wrap">
@@ -97,7 +97,7 @@ const Technologies: React.FC<TechnologiesProps> = ({ tabIndex }) => {
           />
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

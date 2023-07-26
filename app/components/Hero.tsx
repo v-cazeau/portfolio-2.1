@@ -1,7 +1,14 @@
 export default function Hero() {
   return (
-    <section className="text-gray-600 body-font" style={{ marginTop: "0px" }}>
-      <div className="container mx-auto flex px-3 py-20 md:flex-row flex-col items-center">
+    <section className="text-gray-600 body-font">
+      <div
+        className="container 
+        flex flex-col md:flex-row  
+        w-full md:w-10/12 lg:w-10/12
+        mx-auto 
+        px-5 py-7 md:py-10
+        items-center"
+      >
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-5 md:mb-0">
           <img
             className="object-cover object-center rounded"
