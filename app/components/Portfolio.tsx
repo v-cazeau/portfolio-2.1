@@ -80,7 +80,7 @@ export default function Portfolio() {
                 </p>
                 <span className="inline-flex">
                   <a
-                    href="graphic-novel-frontend.web.app/"
+                    href="https://graphic-novel-frontend.web.app/"
                     className="text-titanium-500"
                     target="_blank"
                     rel="noreferrer"
