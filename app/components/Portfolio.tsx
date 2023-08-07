@@ -11,22 +11,23 @@ export default function Portfolio() {
             Confucius
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-4 justify-center">
           <div className="p-4 lg:w-1/2">
             <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
               <img
-                alt="team"
+                alt="Wonderlust: Capturing the Worlds Wonders, One Frame at a Time"
                 className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                src="https://dummyimage.com/200x200"
+                src="/images/works/wonderlust.jpeg"
               />
               <div className="flex-grow sm:pl-8">
                 <h2 className="title-font font-medium text-lg text-gray-7">
                   WONDERLUST
                 </h2>
-                <h3 className="text-gray-500 mb-3">UI Developer</h3>
+                <h3 className="text-gray-500 mb-3">Boca Code</h3>
                 <p className="mb-4">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                  pack vaporware.
+                  Transforming stress into tranquility through nature gazing and
+                  listening to music.
+                  <br />
                 </p>
                 <span className="inline-flex">
                   <a className="text-gray-500">
@@ -77,16 +78,17 @@ export default function Portfolio() {
               <img
                 alt="team"
                 className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                src="https://dummyimage.com/201x201"
+                src="/images/works/visualNovel.jpeg"
               />
               <div className="flex-grow sm:pl-8">
                 <h2 className="title-font font-medium text-lg text-gray-7">
                   VISUAL NOVEL
                 </h2>
-                <h3 className="text-gray-500 mb-3">Designer</h3>
+                <h3 className="text-gray-500 mb-3">UX/UI Internship</h3>
                 <p className="mb-4">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                  pack vaporware.
+                  An intertwining of standalone stories and imaginative
+                  randomness to engage readers in a uniquely diverse narrative
+                  journey.
                 </p>
                 <span className="inline-flex">
                   <a className="text-gray-500">
@@ -137,16 +139,16 @@ export default function Portfolio() {
               <img
                 alt="team"
                 className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                src="https://dummyimage.com/204x204"
+                src="/images/works/jokeapp.jpeg"
               />
               <div className="flex-grow sm:pl-8">
                 <h2 className="title-font font-medium text-lg text-gray-7">
-                  Atticus Finch
+                  JOKE APP
                 </h2>
-                <h3 className="text-gray-500 mb-3">UI Developer</h3>
+                <h3 className="text-gray-500 mb-3">Solo Propel</h3>
                 <p className="mb-4">
-                  DIY tote bag drinking vinegar cronut adaptogen squid fanny
-                  pack vaporware.
+                  Spread smiles and embrace laughter anytime, anywhere with the
+                  'Got Jokes' app.
                 </p>
                 <span className="inline-flex">
                   <a className="text-gray-500">
@@ -192,7 +194,7 @@ export default function Portfolio() {
               </div>
             </div>
           </div>
-          <div className="p-4 lg:w-1/2">
+          {/* <div className="p-4 lg:w-1/2">
             <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
               <img
                 alt="team"
@@ -251,7 +253,7 @@ export default function Portfolio() {
                 </span>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
