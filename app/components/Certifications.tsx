@@ -3,10 +3,10 @@ export default function Certifications() {
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-10 mx-auto">
         <div className="flex flex-col text-center w-full mb-10">
-          <h1 className="focus:outline-none xl:text-4xl md:text-4xl text-3xl dark:text-white text-center text-titanium-800 font-medium mb-5 pt-4">
+          <h1 className="focus:outline-none xl:text-4xl md:text-4xl text-3xl text-center text-titanium-800 font-medium mb-5 pt-4">
             Certifications
           </h1>
-          <p className="focus:outline-none text-base md:text-lg lg:text-xl dark:text-gray-200 text-center text-gray-600 font-normal xl:w-10/12 xl:mx-auto">
+          <p className="focus:outline-none text-base md:text-lg lg:text-xl text-center text-gray-600 font-normal xl:w-10/12 xl:mx-auto">
             "Every child is an artist. The problem is how to remain an artist
             once we grow up." -Pablo Picasso
           </p>
