@@ -1,4 +1,5 @@
 import Hero from "./components/Hero";
+// import Hero1 from "./components/Hero1";
 import Portfolio from "./components/Portfolio";
 import Certifications from "./components/Certifications";
 import Footer from "./components/Footer";
@@ -7,12 +8,13 @@ import Header from "./components/Header";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      {/* <Header /> */}
+    <main className="flex min-h-screen flex-col items-center justify-between">
+      <Header />
+      {/* <Hero1 /> */}
       <Hero />
-      {/* <Portfolio />
-      <Technologies tabIndex={0} />
-      <Certifications /> */}
+      <Portfolio />
+      <Technologies />
+      <Certifications />
       <Footer />
     </main>
   );

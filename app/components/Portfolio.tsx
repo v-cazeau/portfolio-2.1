@@ -3,11 +3,12 @@ export default function Portfolio() {
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-7 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
-          <h1 className="text-2xl font-medium title-font mb-4 text-gray-7 tracking-widest">
+          <h1 className="focus:outline-none xl:text-4xl md:text-4xl text-3xl dark:text-white text-center text-titanium-800 font-medium mb-5 pt-4">
             Portfolio
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Successfully deployed projects and works.
+          <p className="focus:outline-none text-base md:text-lg lg:text-xl dark:text-gray-200 text-center text-gray-600 font-normal xl:w-10/12 xl:mx-auto">
+            "It does not matter how slowly you go as long as you do not stop." -
+            Confucius
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
