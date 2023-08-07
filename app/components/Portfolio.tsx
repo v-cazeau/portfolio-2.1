@@ -29,7 +29,7 @@ export default function Portfolio() {
                   listening to music.
                   <br />
                 </p>
-                <span className="inline-flex">
+                {/* <span className="inline-flex">
                   <a className="text-gray-500">
                     <svg
                       fill="none"
@@ -69,7 +69,7 @@ export default function Portfolio() {
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>
                   </a>
-                </span>
+                </span> */}
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@ export default function Portfolio() {
                   randomness to engage readers in a uniquely diverse narrative
                   journey.
                 </p>
-                <span className="inline-flex">
+                {/* <span className="inline-flex">
                   <a className="text-gray-500">
                     <svg
                       fill="none"
@@ -130,7 +130,7 @@ export default function Portfolio() {
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>
                   </a>
-                </span>
+                </span> */}
               </div>
             </div>
           </div>
@@ -150,7 +150,7 @@ export default function Portfolio() {
                   Spread smiles and embrace laughter anytime, anywhere with the
                   'Got Jokes' app.
                 </p>
-                <span className="inline-flex">
+                {/* <span className="inline-flex">
                   <a className="text-gray-500">
                     <svg
                       fill="none"
@@ -190,7 +190,7 @@ export default function Portfolio() {
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>
                   </a>
-                </span>
+                </span> */}
               </div>
             </div>
           </div>
@@ -259,3 +259,17 @@ export default function Portfolio() {
     </section>
   );
 }
+
+//  <a
+//    href="https://final-project-bc.web.app/"
+//    className="ml-7 text-titanium-500 inline-flex"
+//    target="_blank"
+//    rel="noreferrer"
+//  >
+//    <img
+//      src="/images/contacts/link.png"
+//      height="50"
+//      width="50"
+//      alt="link to project"
+//    />
+//  </a>;

@@ -34,7 +34,7 @@ export default function Hero() {
           <div className="flex justify-center">
             <button className="inline-flex text-white bg-purple-800 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg ml-2 mr-5">
               <a
-                href="/fsse2023resume.pdf"
+                href="/resume.pdf"
                 className="text-titanium-600 ml-1"
                 rel="noopener noreferrer"
                 target="_blank"
@@ -77,23 +77,10 @@ export default function Hero() {
                 target="_blank"
               >
                 <img
-                  src="/images/contacts/github.png"
+                  src="/images/contacts/github.svg"
                   height="50"
                   width="50"
                   alt="link to candidates page"
-                />
-              </a>
-              <a
-                href="https://final-project-bc.web.app/"
-                className="ml-7 text-titanium-500 inline-flex"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  src="/images/contacts/link.png"
-                  height="50"
-                  width="50"
-                  alt="link to project"
                 />
               </a>
               <a
@@ -103,10 +90,10 @@ export default function Hero() {
                 rel="noreferrer"
               >
                 <img
-                  src="/images/contacts/email.svg"
-                  height="50"
                   width="50"
-                  alt="email Véronie Cazeau"
+                  height="50"
+                  src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/email-sign.png"
+                  alt="email-sign"
                 />
               </a>
             </span>
