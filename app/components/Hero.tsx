@@ -77,7 +77,7 @@ export default function Hero() {
                 target="_blank"
               >
                 <img
-                  src="/images/contacts/github.svg"
+                  src="/images/contacts/github.png"
                   height="50"
                   width="50"
                   alt="link to candidates page"
@@ -92,7 +92,7 @@ export default function Hero() {
                 <img
                   width="50"
                   height="50"
-                  src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/email-sign.png"
+                  src="/images/contacts/email.png"
                   alt="email-sign"
                 />
               </a>
