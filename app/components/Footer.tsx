@@ -3,8 +3,8 @@ export default function Footer() {
   const gitHubLink = "https://github.com/v-cazeau";
 
   return (
-    <footer className="text-gray-600 body-font">
-      <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+    <footer className="text-center text-gray-600 body-font">
+      <section className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
         <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-600">
           <a
             href="https://www.linkedin.com/in/veronie-cazeau-/"
@@ -19,7 +19,6 @@ export default function Footer() {
               alt="logo: Light grey capital V, purple capital C, with Véronie Cazeau overlayed."
             />
           </a>
-          {/* <span className="ml-3 text-xl mr-2">Portfolio</span> */}
         </a>
         <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
           &copy;{fullYear}
@@ -32,7 +31,48 @@ export default function Footer() {
             Véronie Cazeau
           </a>
         </p>
-      </div>
+        <div className="social-icons mt-3">
+          <a
+            href="https://www.linkedin.com/in/veronie-cazeau-/"
+            className="ml-0 text-titanium-500 inline-flex"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="/images/contacts/linkedin.png"
+              height="25"
+              width="25"
+              alt="link to candidates page"
+            />
+          </a>
+          <a
+            href="https://github.com/v-cazeau"
+            className="ml-7 text-titanium-500 inline-flex"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <img
+              src="/images/contacts/github.png"
+              height="25"
+              width="25"
+              alt="link to candidates page"
+            />
+          </a>
+          <a
+            href="mailto:veronie.cazeau@gmail.com"
+            className="ml-7 text-titanium-500 inline-flex"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              width="25"
+              height="25"
+              src="/images/contacts/email.png"
+              alt="email-sign"
+            />
+          </a>
+        </div>
+      </section>
     </footer>
   );
 }
