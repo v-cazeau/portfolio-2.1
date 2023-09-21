@@ -16,10 +16,10 @@ export default function Header() {
             Skills
           </a>
           <a
-            href="#certification"
+            href="#certifications"
             className="mr-5 text-gray-900 hover:text-gray-700"
           >
-            Certification
+            Certifications
           </a>
         </nav>
         <button className="inline-flex text-white bg-purple-800 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg ml-2 mr-5 mt-3">
