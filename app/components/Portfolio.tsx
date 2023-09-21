@@ -1,6 +1,6 @@
 export default function Portfolio() {
   return (
-    <section className="text-gray-600 body-font">
+    <section id="portfolio" className="text-gray-600 body-font">
       <div className="container px-5 py-7 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="focus:outline-none xl:text-4xl md:text-4xl text-3xl text-center text-titanium-800 font-medium mb-5 pt-4">

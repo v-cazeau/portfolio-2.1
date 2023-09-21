@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Technologies() {
   return (
-    <section className="container mx-auto py-7 pr-3 pl-3 mt-0">
+    <section id="skills" className="container mx-auto py-7 pr-3 pl-3 mt-0">
       <div className="w-11/12 xl:w-2/3 lg:w-2/3 md:w-2/3 mx-auto sm:mb-10 mb-16">
         <h1 className="focus:outline-none xl:text-4xl md:text-4xl text-3xl text-center text-gray-600 font-medium mb-5 pt-4">
           Skills

@@ -3,10 +3,22 @@ export default function Header() {
     <header className="container">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <nav className="md:ml-7 md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <a className="mr-5 text-gray-900 hover:text-gray-700">Portfolio</a>
-          <a className="mr-5 text-gray-900 hover:text-gray-700">About</a>
-          <a className="mr-5 text-gray-900 hover:text-gray-700">Skills</a>
-          <a className="mr-5 text-gray-900 hover:text-gray-700">
+          <a
+            href="#portfolio"
+            className="mr-5 text-gray-900 hover:text-gray-700"
+          >
+            Portfolio
+          </a>
+          <a href="#about" className="mr-5 text-gray-900 hover:text-gray-700">
+            About
+          </a>
+          <a href="#skills" className="mr-5 text-gray-900 hover:text-gray-700">
+            Skills
+          </a>
+          <a
+            href="#certification"
+            className="mr-5 text-gray-900 hover:text-gray-700"
+          >
             Certification
           </a>
         </nav>

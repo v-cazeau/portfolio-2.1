@@ -1,6 +1,6 @@
 export default function Certifications() {
   return (
-    <section className="text-gray-600 body-font">
+    <section id="certifications" className="text-gray-600 body-font">
       <div className="container px-5 py-10 mx-auto">
         <div className="flex flex-col text-center w-full mb-10">
           <h1 className="focus:outline-none xl:text-4xl md:text-4xl text-3xl text-center text-titanium-800 font-medium mb-5 pt-4">
