@@ -186,7 +186,10 @@ export default function Portfolio() {
                   EVENT PAGE
                 </h2>
                 <h3 className="text-gray-500 mb-3">WordPress/PHP Internship</h3>
-                <p className="mb-4">Desc HEREEEEEE</p>
+                <p className="mb-4">
+                  Experience the thrill of karaoke in hushed disco elegance with
+                  HushHypes!
+                </p>
                 <span className="inline-flex">
                   <a
                     href="https://jihos18.sg-host.com/"
@@ -217,7 +220,10 @@ export default function Portfolio() {
                   BLOG
                 </h2>
                 <h3 className="text-gray-500 mb-3">WordPress/PHP Internship</h3>
-                <p className="mb-4">Desc HEREEEEEE</p>
+                <p className="mb-4">
+                  Discover tea's rich world, from wellness to culture, at
+                  Serenitea.
+                </p>
                 <span className="inline-flex">
                   <a
                     href="https://jihos18.sg-host.com/"
@@ -248,7 +254,10 @@ export default function Portfolio() {
                   SMALL BUSINESS SITE
                 </h2>
                 <h3 className="text-gray-500 mb-3">WordPress/PHP Internship</h3>
-                <p className="mb-4">Desc HEREEEEEE</p>
+                <p className="mb-4">
+                  Elevate your space with custom terrariums for your home or
+                  business with Terradium.
+                </p>
                 <span className="inline-flex">
                   <a
                     href="https://jihos18.sg-host.com/"
