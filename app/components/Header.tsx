@@ -24,8 +24,8 @@ export default function Header() {
         </nav>
         <button className="inline-flex text-white bg-purple-800 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg ml-2 mr-5 mt-3">
           <a
-            href="/fsse2023resume.pdf"
-            className="text-titanium-600"
+            href="/resume.pdf"
+            className="text-titanium-600 ml-0"
             rel="noopener noreferrer"
             target="_blank"
           >
