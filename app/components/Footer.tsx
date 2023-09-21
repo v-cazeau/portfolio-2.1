@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="text-center text-gray-600 body-font">
       <section className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
-        <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-600">
+        <a className="flex title-font font-medium items-center md:justify-start justify-stretch text-gray-600">
           <a
             href="https://www.linkedin.com/in/veronie-cazeau-/"
             className="ml-0 text-titanium-500 inline-flex"
@@ -31,7 +31,7 @@ export default function Footer() {
             Véronie Cazeau
           </a>
         </p>
-        <div className="social-icons mt-3">
+        <div className="social-icons md:ml-5 mt-3">
           <a
             href="https://www.linkedin.com/in/veronie-cazeau-/"
             className="ml-0 text-titanium-500 inline-flex"
