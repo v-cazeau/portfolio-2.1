@@ -192,7 +192,7 @@ export default function Portfolio() {
                 </p>
                 <span className="inline-flex">
                   <a
-                    href="https://jihos18.sg-host.com/"
+                    href="https://jihos6.sg-host.com/"
                     className="text-titanium-500"
                     target="_blank"
                     rel="noreferrer"
@@ -260,7 +260,7 @@ export default function Portfolio() {
                 </p>
                 <span className="inline-flex">
                   <a
-                    href="https://jihos18.sg-host.com/"
+                    href="https://jihos12.sg-host.com/"
                     className="text-titanium-500"
                     target="_blank"
                     rel="noreferrer"
