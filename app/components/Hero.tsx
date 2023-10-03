@@ -26,7 +26,7 @@ export default function Hero() {
 
           <p className="mb-8 leading-relaxed">
             Motivated software engineer passionate about continuous learning,
-            UX/UI design, cloud computing, DevSecOps & project management.
+            AI, UX/UI design, application development & project management.
             Skilled in React, React Native, Figma & FERN/MERN stack with over 8
             years of professional experience working with teams. Let's connect
             and create!
